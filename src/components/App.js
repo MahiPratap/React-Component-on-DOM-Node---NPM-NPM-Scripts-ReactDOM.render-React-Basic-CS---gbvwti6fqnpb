@@ -5,8 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
-    </div>,
-    document.getElementById('root');
+    </div>
   );
 }
 
